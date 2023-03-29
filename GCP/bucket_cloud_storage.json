@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mlops-pi",
+  "private_key_id": "86b6dcc5412e5babfa0c7f485a623e53cd548881",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX4Raa3pK4bbtR\nk3YghsIMGIGlQWaKGYVWzphwB12Pi9TmU/9E+S/1hkejlNJQZ+lBJZ8HK2FI4U3h\nlIavtcwr3NboR6grQJSY1tv/56SREeGmIWw0OSNzjaioOmM9UbopEYGC3DjMVHW/\nO16jgd7b7C0xL+QXl+lXCDoRixN8mZ52UCGJdTmc28emkV7dllChrYqMitH5e+Z7\nWQa+49Wks4H5BWgagso8gskHdxbo3TG7lBNs8L5xP/PCf351ym40mALSgq5gLbPo\nc2MJr5V46KjxmzCep7msJf604se3aCwQ6KmD0qBTHL+ga7LAmjKa+k0yJ/Vl7wgh\nmPrb6XjvAgMBAAECggEABL8D9dL+wsSrFeGFz35mkfoyEvf4PFiP0iainN2eDt5P\nyOLXF1CyLvoDQxljeR/GKkMCtTal06E2zdXWX6dOuhAspxWWK8PY4O3V8ilK+z2T\nz507xGYEtZe3rYolj8T+DEp/wZcgL0J0a4Vvb6yfSkAXKXJVrmcQ46deKS4vbbVS\n5S8bQrTcP7EZpRWUnDkBGQeZOhP2h+f+gOjZ9pulkmFt0kfpkxHziNiCruRzQlv/\nl+5zTyQslexNl146H1lXduWDVEvxpF5khrD5SOu+wFN14zr93EvwIj3fM5PMX07g\nOq6/j8W9u26fcUbDfvMBDhAJEgoLS4SmwjFyXRlAAQKBgQDSAWQo3FlW0g7KhuJU\nvc+4o0Et79O7RsCAHJt12tnUcbZNGDjacUv906dKVap7iONisvNw95caewQ/AwHw\nSBQPK/UlGRK7L6I19rmarnHbMgOVECxNIc2q+tDLoXBt5gMjZJ++9jl5FgiK78wI\nUpU5xHqiGURpBxb2hnGUgNM8AwKBgQC5JKvqcxgEOSHSWcfT5hLtvVYUZxEDNuqZ\nQdI09VZ7ch0uahUSScX5D1oNxOhWhhGQit86wmossx9ESgNee0eFAQOWf4c1Joph\nTwnJHpzExJ5NC1LAk6CA65UE5RJbbf0XemmivO93F4jYs9kRtzT4tFzG1n/hrNnI\nwCDUiaKZpQKBgQCxz5/AwSGb02vWq3KDkduJWCFeBcxeqz9eudofZdg+erGCgVnS\nC0/ucQEafYJF6teswBxDsD9umm4z9BX2HvFtDykX6izj9ScBThBFGiMpFyXVVsZL\n4K1FcezMHbsWMkTB+PcRN2XeUnuVOAinm1TifqvfCEnWK7yTq64LsTAphQKBgGKb\ndnjbLepp52qaaMSiIGjA08zwC+6TXCWeGfAczx/WalZjJ6/i3O9GzubQfhI/O7Gp\nVTV9gIEoMbn0VZEHxdK/9II+j+uuCDvFleepR0PBmLJeGof42J5xWqANxVYu4YKU\nrxh+2meqgDcyqqU115+yqEs6yUeQATpboeCxIYoFAoGAEJD1cgxpVCYqeVTEccga\nPQZQPCDQuURHoMroprV3U8Mi4DU+2eadem4Q10gUVj2AiMAWrlBzOFllAjjHFwYX\n40C5gCK7tRh+kn8Au1FPeXRKIl9nu+2Ue8rFv+TSlHtzHlI5PxPbpRrSNkUiv3HC\n+fE8Nbjp0LwtykmLmLehsdI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-storage-manager@mlops-pi.iam.gserviceaccount.com",
+  "client_id": "117130242522789490160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-storage-manager%40mlops-pi.iam.gserviceaccount.com"
+}
