@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mlops-pi",
+  "private_key_id": "ad020c57b822591da43904125aabc33c76667258",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDN67HKht+5dlVU\n9SMgcMBiOKmhDOvtorerGsUgCwnE5RrqS7JPUcTQN63iE6mUz6Xou2OjlmeP1NN0\nH2YsJIBQQUtxEkefsmfoVivMla5WGDfLq4mYtXNkqPZeGNyGawrsL8Nq7tAY3Cy3\nwpfELb7ZLT8Q/sg8tln+xmhuEyllH5hEyDIZh1SnHAndp/h+HvWovYizoSfXG/l8\n7+ETJYEN+vwd3YeHqnKFZyfP9jR/aIXggiSTyc1SRmztVwWtxDK3ZyJxgILdqlRD\nAUa4XXvJGZ2TH9hvn5FLxjEZ+C7z+E7wXOgUn0FkF60wnS2ssaJ9AkXP4isuv8RZ\n2OiazwjRAgMBAAECggEAW4rIjobYBXxQIgUaOQ020VNsQX7bkVhxezza3kxZ6vCI\nvxioq69npcLi56qjDFclY+mOOYafAmd0G17sDnqpmkP0tE8SjTGEFNrd/MSb7IU2\npLHc6QjdRCYC5ED8JDuI7weqwapp02tp68Uzr9BAVA7Txwvk22ybZHIysaCOGfgd\nq8FotRZwLp6s4zutGQYe84XliKLwBncMThXttgsxwGRKGD2dU8swpGdTzfWmTvsO\nzQ+Rwa8NiX6Bqq8i9UT5OSCmpxNuUTEz+JCiop1KgUYXX1xCP18j2VncRlw6SLFT\nPg470B54OKMzTrhg0umVStlryFu6QUSrImtzZt3PcwKBgQD0xY6yXietbC72G1q0\nDHNges0kuGAwxGpvkBNRYXJnoEX19QDB9NpS5+Alhrq6t19RgADAwF5QHF85Wqom\n8JGGPxGdT2jcx0NzBeYWBZXKKwjoY/PPUaiTxRBi8YU59G7iKn7pDizOvOI4ffnK\nWE74f6s57YbHDpyjUgO5ZyuEgwKBgQDXXeU7yasluHS+7oRAoPfE6aPrEegO+5wf\ndVmMCN/mmtBgqerLgoJEsMizrTEWWlMhUTnsgLlpxy8rKYrj4DNt8ArneTIN3QKv\nwNeFZHfSCTBoy93QdDnkL2BBbjdrqkJ3pu3PK0Lr2VjgRXSvg2ixwxy4//xxqWSD\nQOFpryCFGwKBgQCqKgGnHO/mj5QiQigPjaxUQWsGgStWG+aGwpm7dMxtIC4i7H3n\nWQrCojLgw8Zi8gJRDXT4i4PFm8PTgqVRxuLUeloLi94xxlGs0EgBvUZCMyLRNFOW\nKIXSnShkMNXW0YiYsMRjzxf1bbizX1jdhAD6nv7xmaCeGBlrLSQrq37EcwKBgAMK\nKzsdzJGaueMcALfczcJ0vcCKnyje+kQjZuEoGujpVHmYzFyU+fu4Nwz6K9Ax9Cxr\nNhMVegh5LDxCuNggiPlLQwwjVMaHUQtkAGa8lUhcotdH0Vio20xSMtyZjqSxYYDI\n1WBwLuCfT7bSpCP6CddAdr5RtqFwD6AeoU/Zje7zAoGBAKq3/Yk9B5+SeSRusmOL\nuT+v5rclFng6PBkTfSkpC1NfK7Dry0bJ1jiDHIMyllUyCQK4Z05My5qee6El1z3f\nlTN27iA47yrXljrIExY/B5Svmmvyp6MHi5i+zYK5MYzDCRgSZvu5A/ifBpZum9eh\nxnIv+knFQk7RsrFA0l55xiUW\n-----END PRIVATE KEY-----\n",
+  "client_email": "bg-storage-manager@mlops-pi.iam.gserviceaccount.com",
+  "client_id": "104447348363605432997",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bg-storage-manager%40mlops-pi.iam.gserviceaccount.com"
+}
